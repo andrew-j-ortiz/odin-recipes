@@ -1,0 +1,1 @@
+This is a simple website to demonstrate my HTML skills. The website consists of a main index page which will have links to a few recipes.
